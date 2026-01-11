@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 General Questions
+    url: https://github.com/orgs/botdev-community/discussions
+    about: Ask questions or discuss bot development
+  - name: 📚 Awesome Bot Resources
+    url: https://github.com/botdev-community/awesome-bot-resources
+    about: Browse our curated list of bot development resources
+  - name: 🐛 Bug Report
+    url: https://github.com/botdev-community/awesome-bot-resources/issues/new
+    about: Report a bug in our templates or resources
