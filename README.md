@@ -176,8 +176,8 @@ Start here:
 
 - 💬 [GitHub Discussions](https://github.com/botdev-community/community/discussions)
 - 🐛 [Issues](https://github.com/botdev-community/community/issues)
-- 📧 [Email](mailto:community@botdev.dev) *(if you set this up)*
-- 🐦 [Twitter](https://twitter.com/botdevcommunity) *(if you create one)*
+- 📧 [Email](mailto:community@botdev.dev)
+- 🐦 [Twitter](https://twitter.com/botdevcommunity)
 
 ---
 
